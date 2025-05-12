@@ -1,0 +1,98 @@
+{
+  "expo": {
+    "name": "Rio Bamba",
+    "slug": "riobamba",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "riobamba",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location"
+        ],
+        "NSLocationWhenInUseUsageDescription": "Precisamos acessar sua localização para fornecer serviços baseados em localização.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Precisamos acessar sua localização para fornecer serviços baseados em localização."
+      }
+    },
+    "android": {
+      "package": "com.gutocavalleiro.nriobamba",
+      "config": {
+        "cleartext": {
+          "include": ["www.riobambaciclorutas.com"]
+        },
+        "googleMaps": {
+          "apiKey": "AIzaSyC-qrEoo9h8c_cnZc_jlFxarUfz4ockt_s"
+        },
+        "intentFilters": [
+          {
+            "action": "VIEW",
+            "data": {
+              "scheme": "https",
+              "host": "www.riobambaciclorutas.com",
+              "paths": ["/"]
+            },
+            "category": ["BROWSABLE", "DEFAULT"]
+          }
+        ]
+      },
+      "usesCleartextTraffic": true,
+      "permissions": [
+        "INTERNET",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "BACKGROUND_LOCATION",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "web": {
+        "bundler": "metro",
+        "output": "static",
+        "favicon": "./assets/images/favicon.png",
+      },
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png",
+      "config": {
+        "origin": ["https://www.riobambaciclorutas.com"]
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "cd5a79f0-0093-4bf1-a971-8aa43ee74616"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/cd5a79f0-0093-4bf1-a971-8aa43ee74616"
+    }
+  }
+}

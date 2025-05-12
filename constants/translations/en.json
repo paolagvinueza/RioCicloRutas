@@ -1,0 +1,276 @@
+{
+  "common": {
+    "appDetails": "Detalles",
+    "appName": "Río Bamba Ciclo Rutas",
+    "appVersion": "Río Bamba Ciclo Rutas",
+    "buildVersion": "Versión de compilación",
+    "expoVersion": "Versión de exposición",
+    "data": "Introduce tus datos",
+    "register": "Registro",
+    "about": "Acerca de",
+    "visit": "Visita",
+    "posted": "Publicado el {{fecha}}",
+    "recommended": "Recomendado para ti",
+    "viewall": "Ver todo",
+    "more": "mas",
+    "follow": "siguiente",
+    "followed": "Seguidores",
+    "search": "Buscar",
+    "night": "noches",
+    "day": "día",
+    "booknow": "Reservar ahora",
+    "selectDate": "Seleccionar fecha",
+    "checkInOut": "Registro de entrada y salida",
+    "adults": "Adultos",
+    "roomType": "Tipo de habitación",
+    "luxury": "Lujo",
+    "message": "Ingresa tu mensaje",
+    "album": "Álbum",
+    "or": "o",
+    "name": "nombre",
+    "namePlaceholder": "Ingresa tu nombre completo",
+    "email": "Correo electrónico",
+    "emailPlaceholder": "Ingrese su dirección de correo electrónico",
+    "password": "Contraseña",
+    "passwordPlaceholder": "Ingrese una contraseña",
+    "agree": "Acepto el ",
+    "terms": "Términos y condiciones",
+    "signup": "Registro",
+    "signuptext": "No tengo registro ",
+    "forget": "recordar",
+    "forgetpass": "Recordar contraseña",
+    "signin": "Iniciar sesión",
+    "forgetpassword": "Olvidé mi contraseña ",
+    "goBack": "Atrás",
+    "inStock": "En stock",
+    "outStock": "Agotado",
+    "addToCart": "Añadir al carrito",
+    "checkout": "Ir a la caja",
+    "readArticle": "Más detalles",
+    "send": "enviar",
+    "exit": "Salir",
+    "enter": "Entregar",
+    "access": "Accediendo",
+    "accessmsg": "Accediendo a sus datos",
+    "accesserro": "Error de acceso",
+    "accesserrosub": "Acceso no autorizado",
+    "guests": {
+      "one": "1 invitée",
+      "other": "{{count}} invités",
+      "zero": "0 invités"
+    }
+  },
+  "dates": {
+    "monthNames": [
+      "Janvier",
+      "Février",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin",
+      "Juillet",
+      "Août",
+      "Septembre",
+      "Octobre",
+      "Novembre",
+      "Décembre"
+    ],
+    "monthNamesShort": [
+      "Janv.",
+      "Févr.",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin",
+      "Juil.",
+      "Août",
+      "Sept.",
+      "Oct.",
+      "Nov.",
+      "Déc."
+    ],
+    "dayNames": [
+      "Dimanche",
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi"
+    ],
+    "dayNamesShort": ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
+    "today": "Aujourd'hui"
+  },
+  "app": {
+    "name": "Rio Bamba Ciclo Rutas",
+    "fullname": "Rio Bamba Ciclo Rutas",
+    "native": "React Native",
+    "link": "creative-tim.com"
+  },
+  "darkMode": "Modo oscuro",
+  "screens": {
+    "home": "Comenzar",
+    "createroute": "Generar una ruta",
+    "myroute": "Mis rutas",
+    "explorer": "Explorar",
+    "profile": "Perfil",
+    "settings": "Configuraciones",
+    "register": "Crear cuenta",
+    "extra": "extra"
+  },
+  "croute": {
+    "title": "Nueva Ruta",
+    "collecting": "Recolectando datos de ruta",
+    "formtitle": "Nombre de la ruta",
+    "pformtitle": "Título",
+    "formdetail": "Detalles",
+    "pformdetail": "Más información",
+    "howgo": "¿Cómo estás?",
+    "phowgo": "Seleccionar",
+    "submit": "Iniciar registro de ruta",
+    "wait": "Esperando datos"
+  },
+  "detail": {
+    "title": "Detalle",
+    "submit": "Iniciar pista",
+    "wait": "Esperando datos"
+  },
+  "route": {
+    "title": "Detalhe",
+    "submit": "salir",
+    "wait": "Aguardando dados"
+  },
+  "myroute": {
+    "title": "Mis Rutas",
+    "detail": "Haga clic para ver más detalles",
+    "submit": "salir",
+    "wait": "Aguardando dados"
+  },
+  "rroute": {
+    "title": "Registrando Rutas",    
+    "submit": "Finalizar",
+    "rec":"Grabando...",
+    "speak":"Empezar a hablar",
+    "foto": "Foto",
+    "audio": "Audio",
+    "delete": "Eliminar"
+  },
+  "navigation": {
+    "home": "Río Bamba Ciclo Rutas",
+    "foto": "Capturar foto",
+    "photo": "Capturar foto",
+    "audio": "Grabar audio",
+    "mapa": "mapa",
+    "createroute": "Crear ruta",
+    "recordroute": "Grabación de ruta",
+    "route": "Ruta",
+    "explorer": "Explorar",
+    "detail": "Detalle",
+    "myroute": "Mis Rutas - Río Bamba",
+    "rentals": "Rio Bamba",
+    "rental": "Mejor oferta",
+    "booking": "Reserva",
+    "chat": "chatear",
+    "profile": "Perfil",
+    "settings": "Configuraciones",
+    "notifications": "Notificaciones",
+    "agreement": "Acuerdo de usuario",
+    "about de": "Acerca de",
+    "privacy": "Privacidad",
+    "register": "Registrarse",
+    "login sesión": "Iniciar sesión",
+    "extra": "Automotor",
+    "shopping": "Carrito de la compra"
+  },
+  "menu": {
+    "started": "Mise en route",
+    "documentation": "Documentation"
+  },
+  "home": {
+    "title": "Rio Bamba Ciclo Rutas",
+    "following": "Suivant",
+    "trending": "Tendance",
+    "mys": "Minhas"
+  },
+  "extras": {
+    "title1": "Envie d'essayer avant",
+    "title2": "d'acheter?",
+    "description": "Pour commencer, il ne s'ensuit pas automatiquement qu'une quantité record de glace fondra cet été.",
+    "schedule": "Planifiez un essai routier:",
+    "available": "Disponible",
+    "unavailable": "Indisponible",
+    "save": "Garder pour plus tard",
+    "saved": "Gardé",
+    "book": "Réserver",
+    "booked": "Réservé",
+    "contactUs": "Contactez-nous"
+  },
+  "register": {
+    "title": "Bienvenu",
+    "subtitle": "Inscrivez-vous avec"
+  },
+  "login": {
+    "title": "Bienvenu",
+    "subtitle": "Connectez-vous avec"
+  },
+  "settings": {
+    "recommended": {
+      "title": "Configuración recomendada",
+      "subtitle": "Estas son las configuraciones más importantes",
+      "faceid": "Usar FaceID para iniciar sesión",
+      "autolock": "Seguridad de bloqueo automático",
+      "notifications": "Notificaciones",
+      "darkmode": "Modo oscuro",
+      "language": "idioma"
+    },
+    "privacy": {
+      "title": "Configuración de privacidad",
+      "subtitle": "Tercera configuración más importante",
+      "agreement": "Acuerdo de usuario",
+      "privacy": "Privacidad",
+      "about": "Acerca de"
+    },
+    "notifications": {
+      "title": "Notifications Paramètres",
+      "subtitle": "Ce sont les plus importants paramètres",
+      "mentions": "Quelqu'un me mentionne",
+      "follows": "Quelqu'un me suit",
+      "comments": "Quelqu'un me commente",
+      "offers": "Offres nouveaux"
+    }
+  },
+  "rentals": {
+    "title": "Rio Bamba Ciclo Rutas",
+    "flight": "Vol",
+    "hotel": "Hôtel",
+    "train": "Train",
+    "availability": "Vérifier la disponibilité",
+    "interested": "Vous pouvez également être intéressé par",
+    "viewoffer": "Voir l'offre",
+    "notFound1": "N'a pas trouvé ",
+    "notFound2": " dans notre application.",
+    "moreOptions": "Vous pouvez voir plus d'options d'autres catégories."
+  },
+  "profile": {
+    "title": "Profil",
+    "posts": "Des postes",
+    "followers": "Suiveurs",
+    "following": "Suivant",
+    "aboutMe": "Sur moi"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "read": "Notifications lues",
+    "unread": "Notifications non lues",
+    "personal": "Personnel",
+    "business": "Affaires"
+  },
+  "shop": {
+    "subtotal": {
+      "one": "Sous-total du panier (1 article)",
+      "other": "Sous-total du panier ({{count}} articles)",
+      "zero": "Sous-total du panier (0 articles)"
+    },
+    "alsoShopped": "Les clients qui ont acheté des articles dans votre panier ont également acheté"
+  }
+}

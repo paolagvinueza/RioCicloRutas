@@ -1,0 +1,225 @@
+{
+  "common": {
+    "appDetails": "Detalhes",
+    "appName": "Rio Bamba Ciclo Rutas",
+    "appVersion": "Rio Bamba Ciclo Rutas",
+    "buildVersion": "Build version",
+    "expoVersion": "Expo version",
+    "data": "Entre com seus dados",
+    "register": "Registrar",
+    "about": "Sobre",
+    "visit": "Visita",
+    "posted": "Postado em {{date}}",
+    "recommended": "Recomendado para você",
+    "viewall": "Ver todos",
+    "more": "Mais",
+    "follow": "Seguindo",
+    "followed": "Seguidores",
+    "search": "Procurar",
+    "night": "Noite",
+    "day": "Dia",
+    "booknow": "Reservar agora",
+    "selectDate": "Selecionar data",
+    "checkInOut": "Check-In & Check-Out",
+    "adults": "Adults",
+    "roomType": "Room Type",
+    "luxury": "Luxury",
+    "message": "Enter your message",
+    "album": "Album",
+    "or": "ou",
+    "name": "Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email",
+    "emailPlaceholder": "Digite seu e-mail",
+    "password": "Senha",
+    "passwordPlaceholder": "Digite sua senha",
+    "agree": "Eu aceito os ",
+    "terms": "Termos e condições",
+    "signup": "Registrar",
+    "signuptext": "Não possuo registro ",
+    "forget": "Lembrar",
+    "forgetpass": "Lembrar Senha",
+    "signin": "Login",
+    "forgetpassword": "Esqueci minha senha ",
+    "goBack": "Voltar",
+    "inStock": "In stock",
+    "outStock": "Out of stock",
+    "addToCart": "Add to cart",
+    "checkout": "Proceed to checkout",
+    "readArticle": "Mais detalhes",
+    "send": "Send",
+    "exit": "Sair",
+    "enter": "Entrar",
+    "access": "Acessando",
+    "accessmsg": "Acessando seus dados...",
+    "accesserro": "Erro de Acesso",
+    "accesserrosub": "Acesso não autorizado",
+    "guests": {
+      "one": "1 guest",
+      "other": "{{count}} guests",
+      "zero": "0 Guests"
+    }
+  },
+  "app": {
+    "name": "Rio Bamba",
+    "fullname": "Rio Bamba ",
+    "native": "Ciclo Rutas",
+    "link": "RioBambaCicloRutas"
+  },
+  "darkMode": "Modo Escuro",
+  "screens": {
+    "home": "Home",
+    "createroute": "Gerar uma rota",
+    "myroute": "Minhas rotas",
+    "explorer": "Explorar",
+    "profile": "Perfil",
+    "settings": "Configurações",
+    "register": "Criar Conta",
+    "extra": "Extra"
+  },
+  "navigation": {
+    "home": "Rio Bamba Ciclo Rutas",
+    "foto": "Capturar foto",
+    "photo": "Capturar foto",
+    "audio": "Gravar Áudio",
+    "mapa": "Mapa",
+    "createroute": "Criar Rota",
+    "recordroute": "Gravação de Rotas",
+    "route": "Rota",
+    "explorer": "Explorar",
+    "detail": "Detalhe",
+    "myroute": "Minhas Rotas - Rio Bamba",
+    "rentals": "Rio Bamba",
+    "rental": "Best Deal",
+    "booking": "Reservas",
+    "chat": "Chat",
+    "profile": "Perfil",
+    "settings": "Configurações",
+    "notifications": "Notificações",
+    "agreement": "User Agreement",
+    "about": "Sobre",
+    "privacy": "Privacidade",
+    "register": "Registrar",
+    "login": "Login",
+    "extra": "Automotive",
+    "shopping": "Shopping Cart"
+  },
+  "menu": {
+    "started": "Iniciar",
+    "documentation": "Documentação"
+  },
+  "home": {
+    "title": "Rio Bamba Ciclo Rutas",
+    "following": "Últimas",
+    "trending": "Mais vistas",
+    "mys": "Minhas Rotas"
+  },
+  "croute": {
+    "title": "Nova Rota",
+    "collecting": "Recolhendo dados da rota",
+    "formtitle": "Nome da rota",
+    "pformtitle": "Titulo",
+    "formdetail": "Detalhes",
+    "pformdetail": "Mais informações",
+    "howgo": "Vai como?",
+    "phowgo": "Selecione",
+    "submit": "Iniciar Gravação da rota",
+    "wait": "Aguardando dados"
+  },
+  "detail": {
+    "title": "Detalhe",
+    "submit": "Iniciar trilha",
+    "wait": "Aguardando dados"
+  },
+  "route": {
+    "title": "Detalhe",
+    "submit": "Sair",
+    "wait": "Aguardando dados"
+  },
+  "myroute": {
+    "title": "Minhas Rotas",
+    "detail": "Clique para ver mais detalhes"
+  },
+  "rroute": {
+    "title": "Gravando Rotas",    
+    "submit": "Finalizar",
+    "rec":"Gravando...",
+    "speak":"Comece a fala",
+    "foto": "Foto",
+    "audio": "Áudio",
+    "delete": "Apagar"
+  },
+  "extras": {
+    "title1": "Want to try before",
+    "title2": "you buy?",
+    "description": "For a start, it does not automatically follow that a record amount of ice will melt this summer.",
+    "schedule": "Schedule a test drive:",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "save": "Save for later",
+    "saved": "Saved",
+    "book": "Book",
+    "booked": "Booked",
+    "contactUs": "Contact us"
+  },
+  "register": {
+    "title": "Bem-vindo",
+    "subtitle": "Registrar"
+  },
+  "login": {
+    "title": "Bem-vindo",
+    "subtitle": "Acesse com seus dados"
+  },
+  "settings": {
+    "recommended": {
+      "title": "Configurações recomendadas",
+      "subtitle": "Estas são as configurações mais importantes",
+      "faceid": "Use o FaceID para entrar",
+      "autolock": "Segurança de bloqueio automático",
+      "notifications": "Notificações",
+      "darkmode": "Modo Escuro",
+      "language": "Linguagem"
+    },
+    "privacy": {
+      "title": "Configurações de privacidade",
+      "subtitle": "Terceiras configurações mais importantes",
+      "agreement": "Contrato do usuário",
+      "privacy": "Privacidade",
+      "about": "Sobre"
+    }
+  },
+  "rentals": {
+    "title": "RioBamba",
+    "flight": "Flight",
+    "hotel": "Hotel",
+    "train": "Train",
+    "availability": "Check availability",
+    "interested": "You may also be interested in",
+    "viewoffer": "View Offer",
+    "notFound1": "We didn’t find ",
+    "notFound2": " in our app.",
+    "moreOptions": "You can see more options from other categories."
+  },
+  "profile": {
+    "title": "Perfil",
+    "posts": "Postagens",
+    "followers": "Seguidores",
+    "following": "Seguindo",
+    "aboutMe": "Sobre mim"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "read": "Read Notifications",
+    "unread": "Unread Notifications",
+    "personal": "Personal",
+    "business": "Business"
+  },
+  "shop": {
+    "subtotal": {
+      "one": "Cart subtotal (1 item)",
+      "other": "Cart subtotal ({{count}} items)",
+      "zero": "Cart subtotal (0 items)"
+    },
+    "alsoShopped": "Customers who shopped for items in your cart also shopped for"
+  }
+}
